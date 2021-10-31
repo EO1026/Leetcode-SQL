@@ -1,2 +1,2 @@
 # Leetcode-SQL
-Efficient solutions to Leetcode problems
+Efficient solutions to Leetcode problems with MYSQL
