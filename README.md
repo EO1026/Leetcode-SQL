@@ -2,7 +2,10 @@
 Efficient solutions to Leetcode problems with MYSQL
 
 
-|      Subdomain      |                                                           Challenge                                                          |                                                                           Solution                                                                          |
-|:-------------------:|:----------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|     Basic Select    | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query)                               |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/fce47689fd55cc91c3df1332ae95e57dbe564428/Select/Revising%20the%20Select%20Query%20I)|
-|     Basic Select    | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2)                            |[MySQL Solution](https://github.com/EO1026/HackerRank-MYSQL-solutions/blob/fce47689fd55cc91c3df1332ae95e57dbe564428/Select/Revising%20the%20Select%20Query%20II)|
+|Challenge|Solution|
+|:-------:|:------:|
+| 175. Combine Two Tables|[MySQL Solution](combine-two-tables/combine-two-tables.sql)|
+| 181. Employees Earning More Than Their Managers|[MySQL Solution](employees-earning-more-than-their-managers/employees-earning-more-than-their-managers.sql)|
+| 182. Duplicate Emails|[MySQL Solution](duplicate-emails/duplicate-emails.sql)|
+| 183. Customers Who Never Order|[MySQL Solution](customers-who-never-order/customers-who-never-order.sql)|
+| 196. Delete Duplicate Emails|[MySQL Solution](duplicate-emails/duplicate-emails.sql)|
