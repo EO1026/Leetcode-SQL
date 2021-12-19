@@ -19,3 +19,8 @@ Erica's solutions to Leetcode problems with MYSQL
 |603. Consecutive Available Seats|[MySQL Solution](consecutive-available-seats/consecutive-available-seats.sql)|
 |*607. Sales Person|[MySQL Solution](sales-person/sales-person.sql)|
 |610. Triangle Judgement|[MySQL Solution](triangle-judgement/triangle-judgement.sql)|
+|613. Shortest Distance in a Line|[MySQL Solution](shortest-distance-in-a-line/shortest-distance-in-a-line.sql)|
+|597. Friend Requests I: Overall Acceptance Rate|[MySQL Solution](friend-requests-i-overall-acceptance-rate/friend-requests-i-overall-acceptance-rate.sql)|
+|603. Consecutive Available Seats|[MySQL Solution](consecutive-available-seats/consecutive-available-seats.sql)|
+|*607. Sales Person|[MySQL Solution](sales-person/sales-person.sql)|
+|610. Triangle Judgement|[MySQL Solution](triangle-judgement/triangle-judgement.sql)|
