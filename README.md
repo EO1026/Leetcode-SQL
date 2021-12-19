@@ -14,4 +14,8 @@ Efficient solutions to Leetcode problems with MYSQL
 | 584. Find Customer Referee|[MySQL Solution](find-customer-referee/find-customer-referee.sql)|
 | 586. Customer Placing the Largest Number of Orders|[MySQL Solution](customer-placing-the-largest-number-of-orders/customer-placing-the-largest-number-of-orders.sql)|
 |595. Big Countries|[MySQL Solution](big-countries/big-countries.sql)|
-
+|596. Classes More Than 5 Students|[MySQL Solution](classes-more-than-5-students/classes-more-than-5-students.sql)|
+|597. Friend Requests I: Overall Acceptance Rate|[MySQL Solution](friend-requests-i-overall-acceptance-rate/friend-requests-i-overall-acceptance-rate.sql)|
+|603. Consecutive Available Seats|[MySQL Solution](consecutive-available-seats/consecutive-available-seats.sql)|
+|*607. Sales Person|[MySQL Solution](sales-person/sales-person.sql)|
+|610. Triangle Judgement|[MySQL Solution](triangle-judgement/triangle-judgement.sql)|
