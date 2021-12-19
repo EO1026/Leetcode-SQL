@@ -1,7 +1,7 @@
 # Leetcode-SQL
-Efficient solutions to Leetcode problems with MYSQL
+Erica's solutions to Leetcode problems with MYSQL
 
-
+#easy
 |Challenge|Solution|
 |:-------:|:------:|
 | 175. Combine Two Tables|[MySQL Solution](combine-two-tables/combine-two-tables.sql)|
