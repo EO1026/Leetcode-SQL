@@ -24,3 +24,15 @@ Erica's solutions to Leetcode problems with MYSQL
 |603. Consecutive Available Seats|[MySQL Solution](consecutive-available-seats/consecutive-available-seats.sql)|
 |*607. Sales Person|[MySQL Solution](sales-person/sales-person.sql)|
 |610. Triangle Judgement|[MySQL Solution](triangle-judgement/triangle-judgement.sql)|
+|613. Shortest Distance in a Line|[MySQL Solution](shortest-distance-in-a-line/shortest-distance-in-a-line.sql)|
+|619. Biggest Single Number|[MySQL Solution](biggest-single-number/biggest-single-number.sql)|
+|620. Not Boring Movies|[MySQL Solution](not-boring-movies/not-boring-movies.sql)|
+|627. Swap Salary|[MySQL Solution](swap-salary/swap-salary.sql)|
+|1050. Actors and Directors Who Cooperated At Least Three Times|[MySQL Solution](actors-and-directors-who-cooperated-at-least-three-times/actors-and-directors-who-cooperated-at-least-three-times.sql)|
+
+||[MySQL Solution]()|
+||[MySQL Solution]()|
+||[MySQL Solution]()|
+||[MySQL Solution]()|
+||[MySQL Solution]()|
+
