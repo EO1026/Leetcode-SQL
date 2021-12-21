@@ -30,9 +30,14 @@ Erica's solutions to Leetcode problems with MYSQL
 |627. Swap Salary|[MySQL Solution](swap-salary/swap-salary.sql)|
 |1050. Actors and Directors Who Cooperated At Least Three Times|[MySQL Solution](actors-and-directors-who-cooperated-at-least-three-times/actors-and-directors-who-cooperated-at-least-three-times.sql)|
 
-||[MySQL Solution]()|
-||[MySQL Solution]()|
-||[MySQL Solution]()|
-||[MySQL Solution]()|
+|511. Game Play Analysis I|[MySQL Solution](game-play-analysis-i/game-play-analysis-i.sql)|
+|512. Game Play Analysis II|[MySQL Solution](game-play-analysis-ii/game-play-analysis-ii.sql)|
+|1068. Product Sales Analysis I|[MySQL Solution](product-sales-analysis-i/product-sales-analysis-i.sql)|
+|1069. Product Sales Analysis II|[MySQL Solution](product-sales-analysis-ii/product-sales-analysis-ii.sql)|
+|1075. Project Employees I|[MySQL Solution](project-employees-i/project-employees-i.sql)|
+|1076. Project Employees II|[MySQL Solution](project-employees-ii/project-employees-ii.sql)|
+|1082. Sales Analysis I|[MySQL Solution](sales-analysis-i/sales-analysis-i.sql)|
+|1083. Sales Analysis II|[MySQL Solution](sales-analysis-ii/sales-analysis-ii.sql)|
+
 ||[MySQL Solution]()|
 
