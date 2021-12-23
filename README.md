@@ -42,6 +42,12 @@ Erica's solutions to Leetcode problems with MYSQL
 |1142. User Activity for the Past 30 Days II|[MySQL Solution](user-activity-for-the-past-30-days-ii/user-activity-for-the-past-30-days-ii.sql)|
 |1148. Article Views I|[MySQL Solution](article-views-i/article-views-i.sql)|
 |1173. Immediate Food Delivery I|[MySQL Solution](immediate-food-delivery-i/immediate-food-delivery-i.sql)|
+|1179. Reformat Department Table|[MySQL Solution](reformat-department-table/reformat-department-table.sql)|
+|1211. Queries Quality and Percentage|[MySQL Solution](queries-quality-and-percentage/queries-quality-and-percentage.sql)|
+|1241. Number of Comments per Post|[MySQL Solution](number-of-comments-per-post/number-of-comments-per-post.sql)|
+|1251. Average Selling Price|[MySQL Solution](average-selling-price/average-selling-price.sql)|
+|1280. Students and Examinations|[MySQL Solution](students-and-examinations/students-and-examinations.sql)|
+|1294. Weather Type in Each Country|[MySQL Solution](weather-type-in-each-country/weather-type-in-each-country.sql)|
 ||[MySQL Solution]()|
 ||[MySQL Solution]()|
 
