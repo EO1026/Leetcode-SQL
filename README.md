@@ -48,6 +48,16 @@ Erica's solutions to Leetcode problems with MYSQL
 |1251. Average Selling Price|[MySQL Solution](average-selling-price/average-selling-price.sql)|
 |1280. Students and Examinations|[MySQL Solution](students-and-examinations/students-and-examinations.sql)|
 |1294. Weather Type in Each Country|[MySQL Solution](weather-type-in-each-country/weather-type-in-each-country.sql)|
+|1303. Find the Team Size|[MySQL Solution](find-the-team-size/find-the-team-size.sql)|
+|1322. Ads Performance|[MySQL Solution](ads-performance/ads-performance.sql)|
+|1327. List the Products Ordered in a Period|[MySQL Solution](list-the-products-ordered-in-a-period/list-the-products-ordered-in-a-period.sql)|
+|1350. Students With Invalid Departments|[MySQL Solution](students-with-invalid-departments/students-with-invalid-departments.sql)|
+|1378. Replace Employee ID With The Unique Identifier|[MySQL Solution](replace-employee-id-with-the-unique-identifier/replace-employee-id-with-the-unique-identifier.sql)|
+||[MySQL Solution]()|
+||[MySQL Solution]()|
+||[MySQL Solution]()|
+||[MySQL Solution]()|
+||[MySQL Solution]()|
 ||[MySQL Solution]()|
 ||[MySQL Solution]()|
 
