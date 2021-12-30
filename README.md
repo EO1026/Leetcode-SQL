@@ -53,6 +53,11 @@ Erica's solutions to Leetcode problems with MYSQL
 |1327. List the Products Ordered in a Period|[MySQL Solution](list-the-products-ordered-in-a-period/list-the-products-ordered-in-a-period.sql)|
 |1350. Students With Invalid Departments|[MySQL Solution](students-with-invalid-departments/students-with-invalid-departments.sql)|
 |1378. Replace Employee ID With The Unique Identifier|[MySQL Solution](replace-employee-id-with-the-unique-identifier/replace-employee-id-with-the-unique-identifier.sql)|
+|1407. Top Travellers|[MySQL Solution](top-travellers/top-travellers.sql)|
+|1421. NPV Queries|[MySQL Solution](npv-queries/npv-queries.sql)|
+|1435. Create a Session Bar Chart|[MySQL Solution](create-a-session-bar-chart/create-a-session-bar-chart.sql)|
+|1495. Friendly Movies Streamed Last Month|[MySQL Solution](friendly-movies-streamed-last-month/friendly-movies-streamed-last-month.sql)|
+|1484. Group Sold Products By The Date|[MySQL Solution](group-sold-products-by-the-date/group-sold-products-by-the-date.sql)|
 ||[MySQL Solution]()|
 ||[MySQL Solution]()|
 ||[MySQL Solution]()|
