@@ -58,11 +58,11 @@ Erica's solutions to Leetcode problems with MYSQL
 |1435. Create a Session Bar Chart|[MySQL Solution](create-a-session-bar-chart/create-a-session-bar-chart.sql)|
 |1495. Friendly Movies Streamed Last Month|[MySQL Solution](friendly-movies-streamed-last-month/friendly-movies-streamed-last-month.sql)|
 |1484. Group Sold Products By The Date|[MySQL Solution](group-sold-products-by-the-date/group-sold-products-by-the-date.sql)|
-||[MySQL Solution]()|
-||[MySQL Solution]()|
-||[MySQL Solution]()|
-||[MySQL Solution]()|
-||[MySQL Solution]()|
+|1511. Customer Order Frequency|[MySQL Solution](customer-order-frequency/customer-order-frequency.sql)|
+|1517. Find Users With Valid E-Mails|[MySQL Solution](find-users-with-valid-e-mails/find-users-with-valid-e-mails.sql)|
+|1527. Patients With a Condition|[MySQL Solution](patients-with-a-condition/patients-with-a-condition.sql)|
+|1543. Fix Product Name Format|[MySQL Solution](fix-product-name-format/fix-product-name-format.sql)|
+|1565. Unique Orders and Customers Per Month|[MySQL Solution](unique-orders-and-customers-per-month/unique-orders-and-customers-per-month.sql)|
 ||[MySQL Solution]()|
 ||[MySQL Solution]()|
 
