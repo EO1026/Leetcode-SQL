@@ -63,6 +63,13 @@ Erica's solutions to Leetcode problems with MYSQL
 |1527. Patients With a Condition|[MySQL Solution](patients-with-a-condition/patients-with-a-condition.sql)|
 |1543. Fix Product Name Format|[MySQL Solution](fix-product-name-format/fix-product-name-format.sql)|
 |1565. Unique Orders and Customers Per Month|[MySQL Solution](unique-orders-and-customers-per-month/unique-orders-and-customers-per-month.sql)|
+|1571. Warehouse Manager|[MySQL Solution](1571-warehouse-manager/1571-warehouse-manager.sql)|
+|1581. Customer Who Visited but Did Not Make Any Transactions|[MySQL Solution](1581-customer-who-visited-but-did-not-make-any-transactions/1581-customer-who-visited-but-did-not-make-any-transactions.sql)|
+|1587. Bank Account Summary II|[MySQL Solution](1587-bank-account-summary-ii/1587-bank-account-summary-ii.sql)|
+|1607. Sellers With No Sales|[MySQL Solution](1607-sellers-with-no-sales/1607-sellers-with-no-sales.sql)|
+|1623. All Valid Triplets That Can Represent a Country|[MySQL Solution](1623-all-valid-triplets-that-can-represent-a-country/1623-all-valid-triplets-that-can-represent-a-country.sql)|
+||[MySQL Solution]()|
+||[MySQL Solution]()|
 ||[MySQL Solution]()|
 ||[MySQL Solution]()|
 
