@@ -68,6 +68,11 @@ Erica's solutions to Leetcode problems with MYSQL
 |1587. Bank Account Summary II|[MySQL Solution](1587-bank-account-summary-ii/1587-bank-account-summary-ii.sql)|
 |1607. Sellers With No Sales|[MySQL Solution](1607-sellers-with-no-sales/1607-sellers-with-no-sales.sql)|
 |1623. All Valid Triplets That Can Represent a Country|[MySQL Solution](1623-all-valid-triplets-that-can-represent-a-country/1623-all-valid-triplets-that-can-represent-a-country.sql)|
+|1633. Percentage of Users Attended a Contest|[MySQL Solution](1633-percentage-of-users-attended-a-contest/1633-percentage-of-users-attended-a-contest.sql)|
+|1661. Average Time of Process per Machine|[MySQL Solution](1661-average-time-of-process-per-machine/1661-average-time-of-process-per-machine.sql)|
+|1667. Fix Names in a Table|[MySQL Solution](1677-products-worth-over-invoices/1677-products-worth-over-invoices.sql)|
+|1677. Product's Worth Over Invoices|[MySQL Solution](1667-fix-names-in-a-table/1667-fix-names-in-a-table.sql)|
+|1683. Invalid Tweets|[MySQL Solution](1683-invalid-tweets/1683-invalid-tweets.sql)|
 ||[MySQL Solution]()|
 ||[MySQL Solution]()|
 ||[MySQL Solution]()|
