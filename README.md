@@ -73,8 +73,17 @@ Erica's solutions to Leetcode problems with MYSQL
 |1667. Fix Names in a Table|[MySQL Solution](1677-products-worth-over-invoices/1677-products-worth-over-invoices.sql)|
 |1677. Product's Worth Over Invoices|[MySQL Solution](1667-fix-names-in-a-table/1667-fix-names-in-a-table.sql)|
 |1683. Invalid Tweets|[MySQL Solution](1683-invalid-tweets/1683-invalid-tweets.sql)|
+|1693. Daily Leads and Partners|[MySQL Solution](1693-daily-leads-and-partners/1693-daily-leads-and-partners.sql)|
+|1729. Find Followers Count|[MySQL Solution](1729-find-followers-count/1729-find-followers-count.sql)|
+|1731. The Number of Employees Which Report to Each Employee|[MySQL Solution](1731-the-number-of-employees-which-report-to-each-employee/1731-the-number-of-employees-which-report-to-each-employee.sql)|
+|1741. Find Total Time Spent by Each Employee|[MySQL Solution](1741-find-total-time-spent-by-each-employee/1741-find-total-time-spent-by-each-employee.sql)|
+|1757. Recyclable and Low Fat Products|[MySQL Solution](1757-recyclable-and-low-fat-products/1757-recyclable-and-low-fat-products.sql)|
 ||[MySQL Solution]()|
 ||[MySQL Solution]()|
-||[MySQL Solution]()|
+
+#medium
+|Challenge|Solution|
+|:-------:|:------:|
+|176. Second Highest Salary|[MySQL Solution]()|
 ||[MySQL Solution]()|
 
