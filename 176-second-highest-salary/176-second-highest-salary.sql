@@ -1,8 +1,8 @@
 # Write your MySQL query statement below
-select max(salary) as SecondHighestSalary
-from
-(
-select id,salary,dense_rank() over(order by salary desc) as rnk
+select max(salary) as SecondHighestSalary from
+(select salary
+, rank() over (order by salary desc) as rk
 from Employee
-) as a
-where rnk = 2;
+group by salary) a
+where rk =2
+
