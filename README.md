@@ -78,12 +78,16 @@ Erica's solutions to Leetcode problems with MYSQL
 |1731. The Number of Employees Which Report to Each Employee|[MySQL Solution](1731-the-number-of-employees-which-report-to-each-employee/1731-the-number-of-employees-which-report-to-each-employee.sql)|
 |1741. Find Total Time Spent by Each Employee|[MySQL Solution](1741-find-total-time-spent-by-each-employee/1741-find-total-time-spent-by-each-employee.sql)|
 |1757. Recyclable and Low Fat Products|[MySQL Solution](1757-recyclable-and-low-fat-products/1757-recyclable-and-low-fat-products.sql)|
+|1777. Product's Price for Each Store|[MySQL Solution](1777-products-price-for-each-store/1777-products-price-for-each-store.sql)|
+|1789. Primary Department for Each Employee|[MySQL Solution](1789-primary-department-for-each-employee/1789-primary-department-for-each-employee.sql)|
+
 ||[MySQL Solution]()|
-||[MySQL Solution]()|
+
 
 #medium
 |Challenge|Solution|
 |:-------:|:------:|
-|176. Second Highest Salary|[MySQL Solution]()|
+|176. Second Highest Salary|[MySQL Solution](176-second-highest-salary/176-second-highest-salary.sql)|
+|177. Nth Highest Salary|[MySQL Solution](177-nth-highest-salary/177-nth-highest-salary.sql)|
 ||[MySQL Solution]()|
 
