@@ -80,14 +80,20 @@ Erica's solutions to Leetcode problems with MYSQL
 |1757. Recyclable and Low Fat Products|[MySQL Solution](1757-recyclable-and-low-fat-products/1757-recyclable-and-low-fat-products.sql)|
 |1777. Product's Price for Each Store|[MySQL Solution](1777-products-price-for-each-store/1777-products-price-for-each-store.sql)|
 |1789. Primary Department for Each Employee|[MySQL Solution](1789-primary-department-for-each-employee/1789-primary-department-for-each-employee.sql)|
-
+|1795. Rearrange Products Table|[MySQL Solution](1795-rearrange-products-table/1795-rearrange-products-table.sql)|
+|1809. Ad-Free Sessions|[MySQL Solution](1809-ad-free-sessions/1809-ad-free-sessions.sql)|
+|1821. Find Customers With Positive Revenue this Year|[MySQL Solution](1821-find-customers-with-positive-revenue-this-year/1821-find-customers-with-positive-revenue-this-year.sql)|
 ||[MySQL Solution]()|
-
+||[MySQL Solution]()|
+||[MySQL Solution]()|
 
 #medium
 |Challenge|Solution|
 |:-------:|:------:|
 |176. Second Highest Salary|[MySQL Solution](176-second-highest-salary/176-second-highest-salary.sql)|
 |177. Nth Highest Salary|[MySQL Solution](177-nth-highest-salary/177-nth-highest-salary.sql)|
+|178. Rank Scores|[MySQL Solution](178-rank-scores/178-rank-scores.sql)|
+||[MySQL Solution]()|
+||[MySQL Solution]()|
 ||[MySQL Solution]()|
 
