@@ -86,6 +86,12 @@ Erica's solutions to Leetcode problems with MYSQL
 |1853 convert date format|[MySQL Solution](1853-convert-date-format/1853-convert-date-format.sql)|
 |1873 calculate special bonus|[MySQL Solution](1873-calculate-special-bonus/1873-calculate-special-bonus.sql)|
 |1890 the latest login in 2020|[MySQL Solution](1890-the-latest-login-in-2020/1890-the-latest-login-in-2020.sql)|
+|1939. Users That Actively Request Confirmation Messages|[MySQL Solution](1939-users-that-actively-request-confirmation-messages/1939-users-that-actively-request-confirmation-messages.sql)|
+|1965. Employees With Missing Information|[MySQL Solution](1965-employees-with-missing-information/1965-employees-with-missing-information.sql)|
+||[MySQL Solution]()|
+||[MySQL Solution]()|
+||[MySQL Solution]()|
+||[MySQL Solution]()|
 
 #medium
 |Challenge|Solution|
@@ -94,6 +100,6 @@ Erica's solutions to Leetcode problems with MYSQL
 |177. Nth Highest Salary|[MySQL Solution](177-nth-highest-salary/177-nth-highest-salary.sql)|
 |178. Rank Scores|[MySQL Solution](178-rank-scores/178-rank-scores.sql)|
 |180. Consecutive Numbers|[MySQL Solution](180-consecutive-numbers/180-consecutive-numbers.sql)|
-||[MySQL Solution]()|
-||[MySQL Solution]()|
+|184. Department Highest Salary|[MySQL Solution](184-department-highest-salary/184-department-highest-salary.sql)|
+|534. Game Play Analysis III|[MySQL Solution](534-game-play-analysis-iii/534-game-play-analysis-iii.sql)|
 
