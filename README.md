@@ -88,8 +88,8 @@ Erica's solutions to Leetcode problems with MYSQL
 |1890 the latest login in 2020|[MySQL Solution](1890-the-latest-login-in-2020/1890-the-latest-login-in-2020.sql)|
 |1939. Users That Actively Request Confirmation Messages|[MySQL Solution](1939-users-that-actively-request-confirmation-messages/1939-users-that-actively-request-confirmation-messages.sql)|
 |1965. Employees With Missing Information|[MySQL Solution](1965-employees-with-missing-information/1965-employees-with-missing-information.sql)|
-||[MySQL Solution]()|
-||[MySQL Solution]()|
+|1978. Employees Whose Manager Left the Company|[MySQL Solution](1978-employees-whose-manager-left-the-company/1978-employees-whose-manager-left-the-company.sql)|
+|2026. Low-Quality Problems|[MySQL Solution](2026-low-quality-problems/2026-low-quality-problems.sql)|
 ||[MySQL Solution]()|
 ||[MySQL Solution]()|
 
@@ -102,4 +102,5 @@ Erica's solutions to Leetcode problems with MYSQL
 |180. Consecutive Numbers|[MySQL Solution](180-consecutive-numbers/180-consecutive-numbers.sql)|
 |184. Department Highest Salary|[MySQL Solution](184-department-highest-salary/184-department-highest-salary.sql)|
 |534. Game Play Analysis III|[MySQL Solution](534-game-play-analysis-iii/534-game-play-analysis-iii.sql)|
-
+|550. Game Play Analysis IV|[MySQL Solution](550-game-play-analysis-iv/550-game-play-analysis-iv.sql)|
+||[MySQL Solution]()|
