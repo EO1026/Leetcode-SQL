@@ -1,0 +1,6 @@
+# Write your MySQL query statement below
+SELECT PROBLEM_ID 
+FROM PROBLEMS 
+WHERE
+(LIKES/(LIKES+DISLIKES)) < 0.6
+ORDER BY PROBLEM_ID;
