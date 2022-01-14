@@ -90,8 +90,8 @@ Erica's solutions to Leetcode problems with MYSQL
 |1965. Employees With Missing Information|[MySQL Solution](1965-employees-with-missing-information/1965-employees-with-missing-information.sql)|
 |1978. Employees Whose Manager Left the Company|[MySQL Solution](1978-employees-whose-manager-left-the-company/1978-employees-whose-manager-left-the-company.sql)|
 |2026. Low-Quality Problems|[MySQL Solution](2026-low-quality-problems/2026-low-quality-problems.sql)|
-||[MySQL Solution]()|
-||[MySQL Solution]()|
+|2072. The Winner University|[MySQL Solution](2072-the-winner-university/2072-the-winner-university.sql)|
+|2082. The Number of Rich Customers|[MySQL Solution](2082-the-number-of-rich-customers/2082-the-number-of-rich-customers.sql)|
 
 #medium
 |Challenge|Solution|
@@ -103,4 +103,5 @@ Erica's solutions to Leetcode problems with MYSQL
 |184. Department Highest Salary|[MySQL Solution](184-department-highest-salary/184-department-highest-salary.sql)|
 |534. Game Play Analysis III|[MySQL Solution](534-game-play-analysis-iii/534-game-play-analysis-iii.sql)|
 |550. Game Play Analysis IV|[MySQL Solution](550-game-play-analysis-iv/550-game-play-analysis-iv.sql)|
+|570. Managers with at Least 5 Direct Reports|[MySQL Solution](570-managers-with-at-least-5-direct-reports/570-managers-with-at-least-5-direct-reports.sql)|
 ||[MySQL Solution]()|
