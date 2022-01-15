@@ -104,4 +104,7 @@ Erica's solutions to Leetcode problems with MYSQL
 |534. Game Play Analysis III|[MySQL Solution](534-game-play-analysis-iii/534-game-play-analysis-iii.sql)|
 |550. Game Play Analysis IV|[MySQL Solution](550-game-play-analysis-iv/550-game-play-analysis-iv.sql)|
 |570. Managers with at Least 5 Direct Reports|[MySQL Solution](570-managers-with-at-least-5-direct-reports/570-managers-with-at-least-5-direct-reports.sql)|
+|574. Winning Candidate|[MySQL Solution](574-winning-candidate/574-winning-candidate.sql)|
+|578. Get Highest Answer Rate Question|[MySQL Solution](578-get-highest-answer-rate-question/578-get-highest-answer-rate-question.sql)|
+||[MySQL Solution]()|
 ||[MySQL Solution]()|
