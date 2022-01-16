@@ -106,5 +106,11 @@ Erica's solutions to Leetcode problems with MYSQL
 |570. Managers with at Least 5 Direct Reports|[MySQL Solution](570-managers-with-at-least-5-direct-reports/570-managers-with-at-least-5-direct-reports.sql)|
 |574. Winning Candidate|[MySQL Solution](574-winning-candidate/574-winning-candidate.sql)|
 |578. Get Highest Answer Rate Question|[MySQL Solution](578-get-highest-answer-rate-question/578-get-highest-answer-rate-question.sql)|
+|580. Count Student Number in Departments|[MySQL Solution](580-count-student-number-in-departments/580-count-student-number-in-departments.sql)|
+|585. Investments in 2016|[MySQL Solution](585-investments-in-2016/585-investments-in-2016.sql)|
+||[MySQL Solution]()|
+||[MySQL Solution]()|
+||[MySQL Solution]()|
+||[MySQL Solution]()|
 ||[MySQL Solution]()|
 ||[MySQL Solution]()|
