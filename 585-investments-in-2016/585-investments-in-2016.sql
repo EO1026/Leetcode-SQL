@@ -1,6 +1,8 @@
 # Write your MySQL query statement below
-select round(sum(TIV_2016),2) TIV_2016
-from insurance
-where TIV_2015 in (select TIV_2015 from insurance group by TIV_2015 having count(PID) > 1) -- Have the same TIV_2015 value as one or more other policyholders.
-and (LAT,LON) in (select LAT,LON from insurance group by LAT,LON having count(PID) = 1)
--- Are not located in the same city as any other policyholder
+
+#Method2 window function
+select round(sum(tiv_2016),2) as tiv_2016 from 
+    (select TIV_2016, count(pid) over(partition by tiv_2015) as c_, count(pid) over(partition by lat,lon) as c__ 
+     from insurance
+     order by pid) as t
+where c_ > 1 and c__ =1
