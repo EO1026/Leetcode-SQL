@@ -108,8 +108,8 @@ Erica's solutions to Leetcode problems with MYSQL
 |578. Get Highest Answer Rate Question|[MySQL Solution](578-get-highest-answer-rate-question/578-get-highest-answer-rate-question.sql)|
 |580. Count Student Number in Departments|[MySQL Solution](580-count-student-number-in-departments/580-count-student-number-in-departments.sql)|
 |585. Investments in 2016|[MySQL Solution](585-investments-in-2016/585-investments-in-2016.sql)|
-||[MySQL Solution]()|
-||[MySQL Solution]()|
+|602. Friend Requests II: Who Has the Most Friends|[MySQL Solution](602-friend-requests-ii-who-has-the-most-friends/602-friend-requests-ii-who-has-the-most-friends.sql)|
+|608. Tree Node|[MySQL Solution](608-tree-node/608-tree-node.sql)|
 ||[MySQL Solution]()|
 ||[MySQL Solution]()|
 ||[MySQL Solution]()|
