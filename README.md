@@ -110,7 +110,7 @@ Erica's solutions to Leetcode problems with MYSQL
 |585. Investments in 2016|[MySQL Solution](585-investments-in-2016/585-investments-in-2016.sql)|
 |602. Friend Requests II: Who Has the Most Friends|[MySQL Solution](602-friend-requests-ii-who-has-the-most-friends/602-friend-requests-ii-who-has-the-most-friends.sql)|
 |608. Tree Node|[MySQL Solution](608-tree-node/608-tree-node.sql)|
-||[MySQL Solution]()|
-||[MySQL Solution]()|
+|612. Shortest Distance in a Plane|[MySQL Solution](612-shortest-distance-in-a-plane/612-shortest-distance-in-a-plane.sql)|
+|614. Second Degree Follower|[MySQL Solution](614-second-degree-follower/614-second-degree-follower.sql)|
 ||[MySQL Solution]()|
 ||[MySQL Solution]()|
