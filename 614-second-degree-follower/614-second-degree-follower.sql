@@ -1,5 +1,7 @@
-select followee as follower, count(follower) as num
-from follow
-where followee in (select follower from follow)
-group by 1
-order by 1 
+SELECT f1.follower, count(DISTINCT f2.follower) as num
+FROM follow f1
+JOIN follow f2
+ON f1.follower = f2.followee
+GROUP BY f1.follower
+HAVING num>=1
+ORDER BY f1.follower
