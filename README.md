@@ -112,5 +112,8 @@ Erica's solutions to Leetcode problems with MYSQL
 |608. Tree Node|[MySQL Solution](608-tree-node/608-tree-node.sql)|
 |612. Shortest Distance in a Plane|[MySQL Solution](612-shortest-distance-in-a-plane/612-shortest-distance-in-a-plane.sql)|
 |614. Second Degree Follower|[MySQL Solution](614-second-degree-follower/614-second-degree-follower.sql)|
+|626. Exchange Seats|[MySQL Solution](626-exchange-seats/626-exchange-seats.sql)|
+|1045. Customers Who Bought All Products|[MySQL Solution](1045-customers-who-bought-all-products/1045-customers-who-bought-all-products.sql)|
+||[MySQL Solution]()|
 ||[MySQL Solution]()|
 ||[MySQL Solution]()|
