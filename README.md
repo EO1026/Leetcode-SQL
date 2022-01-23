@@ -114,6 +114,6 @@ Erica's solutions to Leetcode problems with MYSQL
 |614. Second Degree Follower|[MySQL Solution](614-second-degree-follower/614-second-degree-follower.sql)|
 |626. Exchange Seats|[MySQL Solution](626-exchange-seats/626-exchange-seats.sql)|
 |1045. Customers Who Bought All Products|[MySQL Solution](1045-customers-who-bought-all-products/1045-customers-who-bought-all-products.sql)|
-||[MySQL Solution]()|
-||[MySQL Solution]()|
+|1070. Product Sales Analysis III|[MySQL Solution](1070-product-sales-analysis-iii/1070-product-sales-analysis-iii.sql)|
+|1077. Project Employees III|[MySQL Solution](1077-project-employees-iii/1077-project-employees-iii.sql)|
 ||[MySQL Solution]()|
