@@ -116,4 +116,7 @@ Erica's solutions to Leetcode problems with MYSQL
 |1045. Customers Who Bought All Products|[MySQL Solution](1045-customers-who-bought-all-products/1045-customers-who-bought-all-products.sql)|
 |1070. Product Sales Analysis III|[MySQL Solution](1070-product-sales-analysis-iii/1070-product-sales-analysis-iii.sql)|
 |1077. Project Employees III|[MySQL Solution](1077-project-employees-iii/1077-project-employees-iii.sql)|
+|1098. Unpopular Books|[MySQL Solution](1098-unpopular-books/1098-unpopular-books.sql)|
+|1107. New Users Daily Count|[MySQL Solution](1107-new-users-daily-count/1107-new-users-daily-count.sql)|
+||[MySQL Solution]()|
 ||[MySQL Solution]()|
