@@ -118,5 +118,7 @@ Erica's solutions to Leetcode problems with MYSQL
 |1077. Project Employees III|[MySQL Solution](1077-project-employees-iii/1077-project-employees-iii.sql)|
 |1098. Unpopular Books|[MySQL Solution](1098-unpopular-books/1098-unpopular-books.sql)|
 |1107. New Users Daily Count|[MySQL Solution](1107-new-users-daily-count/1107-new-users-daily-count.sql)|
+|1112. Highest Grade For Each Student|[MySQL Solution](1112-highest-grade-for-each-student/1112-highest-grade-for-each-student.sql)|
+|1126. Active Businesses|[MySQL Solution](1126-active-businesses/1126-active-businesses.sql)|
 ||[MySQL Solution]()|
 ||[MySQL Solution]()|
