@@ -1,7 +1,8 @@
 # Write your MySQL query statement below
-select distinct viewer_id as id
-from (select viewer_id, count(distinct article_id) as ct, view_date
-     from views
-     group by viewer_id, view_date
-     having ct>1 ) as tmp
-order by 1 asc
+select distinct a.viewer_id as id
+from Views a
+join Views b
+on a.view_date=b.view_date and a.viewer_id=b.viewer_id
+where a.article_id!=b.article_id
+order by id
+ 
