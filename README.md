@@ -120,5 +120,9 @@ Erica's solutions to Leetcode problems with MYSQL
 |1107. New Users Daily Count|[MySQL Solution](1107-new-users-daily-count/1107-new-users-daily-count.sql)|
 |1112. Highest Grade For Each Student|[MySQL Solution](1112-highest-grade-for-each-student/1112-highest-grade-for-each-student.sql)|
 |1126. Active Businesses|[MySQL Solution](1126-active-businesses/1126-active-businesses.sql)|
+|1132. Reported Posts II|[MySQL Solution](1132-reported-posts-ii/1132-reported-posts-ii.sql)|
+|1149. Article Views II|[MySQL Solution](1149-article-views-ii/1149-article-views-ii.sql)|
+||[MySQL Solution]()|
+||[MySQL Solution]()|
 ||[MySQL Solution]()|
 ||[MySQL Solution]()|
