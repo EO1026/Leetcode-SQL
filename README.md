@@ -122,7 +122,7 @@ Erica's solutions to Leetcode problems with MYSQL
 |1126. Active Businesses|[MySQL Solution](1126-active-businesses/1126-active-businesses.sql)|
 |1132. Reported Posts II|[MySQL Solution](1132-reported-posts-ii/1132-reported-posts-ii.sql)|
 |1149. Article Views II|[MySQL Solution](1149-article-views-ii/1149-article-views-ii.sql)|
-||[MySQL Solution]()|
-||[MySQL Solution]()|
+|1158. Market Analysis I|[MySQL Solution](1158-market-analysis-i/1158-market-analysis-i.sql)|
+|1164. Product Price at a Given Date|[MySQL Solution]()|
 ||[MySQL Solution]()|
 ||[MySQL Solution]()|
