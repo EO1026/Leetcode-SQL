@@ -1,9 +1,10 @@
 # Write your MySQL query statement below
-WITH u AS ((SELECT * FROM Transactions WHERE state = "approved")
+WITH u AS (
+    (SELECT * FROM Transactions WHERE state = "approved")
 UNION ALL
-(SELECT t.id, country, "chargebacks" AS state, amount, c.trans_date
-FROM Transactions t
-RIGHT JOIN Chargebacks c ON t.id = c.trans_id))
+    (SELECT t.id, country, "chargebacks" AS state, amount, c.trans_date
+     FROM Transactions t
+     RIGHT JOIN Chargebacks c ON t.id = c.trans_id))
 
 SELECT LEFT(trans_date,7) month,country,
 COUNT(CASE WHEN state='approved' THEN 1 ELSE null END)approved_count,
