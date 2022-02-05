@@ -1,7 +1,7 @@
 # Write your MySQL query statement below
 WITH u AS (
     (SELECT * FROM Transactions WHERE state = "approved")
-UNION ALL
+UNION 
     (SELECT t.id, country, "chargebacks" AS state, amount, c.trans_date
      FROM Transactions t
      RIGHT JOIN Chargebacks c ON t.id = c.trans_id))
