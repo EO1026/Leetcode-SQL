@@ -92,6 +92,9 @@ Erica's solutions to Leetcode problems with MYSQL
 |2026. Low-Quality Problems|[MySQL Solution](2026-low-quality-problems/2026-low-quality-problems.sql)|
 |2072. The Winner University|[MySQL Solution](2072-the-winner-university/2072-the-winner-university.sql)|
 |2082. The Number of Rich Customers|[MySQL Solution](2082-the-number-of-rich-customers/2082-the-number-of-rich-customers.sql)|
+|2205. The Number of Users That Are Eligible for Discount|[MySQL Solution](2205-the-number-of-users-that-are-eligible-for-discount/2205-the-number-of-users-that-are-eligible-for-discount.sql)|
+|2230. The Users That Are Eligible for Discount|[MySQL Solution](2230-the-users-that-are-eligible-for-discount/2230-the-users-that-are-eligible-for-discount.sql)|
+
 
 #medium
 |Challenge|Solution|
