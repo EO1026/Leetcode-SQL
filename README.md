@@ -128,4 +128,13 @@ Erica's solutions to Leetcode problems with MYSQL
 |1158. Market Analysis I|[MySQL Solution](1158-market-analysis-i/1158-market-analysis-i.sql)|
 |1164. Product Price at a Given Date|[MySQL Solution](1164-product-price-at-a-given-date/1164-product-price-at-a-given-date.sql)|
 |1174. Immediate Food Delivery II|[MySQL Solution](1174-immediate-food-delivery-ii/1174-immediate-food-delivery-ii.sql)|
+|1193. Monthly Transactions I|[MySQL Solution](1193-monthly-transactions-i/1193-monthly-transactions-i.sql)|
+|1204. Last Person to Fit in the Bus|[MySQL Solution](1204-last-person-to-fit-in-the-bus/1204-last-person-to-fit-in-the-bus.sql)|
+|1205. Monthly Transactions II|[MySQL Solution](1205-monthly-transactions-ii/1205-monthly-transactions-ii.sql)|
+|1212. Team Scores in Football Tournament|[MySQL Solution](1212-team-scores-in-football-tournament/1212-team-scores-in-football-tournament.sql)|
+|1264. Page Recommendations|[MySQL Solution](1264-page-recommendations/1264-page-recommendations.sql)|
+|1270. All People Report to the Given Manager|[MySQL Solution](1270-all-people-report-to-the-given-manager/1270-all-people-report-to-the-given-manager.sql)|
+|1285. Find the Start and End Number of Continuous Ranges|[MySQL Solution](1285-find-the-start-and-end-number-of-continuous-ranges/1285-find-the-start-and-end-number-of-continuous-ranges.sql)|
 ||[MySQL Solution]()|
+||[MySQL Solution]()|
+
