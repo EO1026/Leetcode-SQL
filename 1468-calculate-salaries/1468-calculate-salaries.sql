@@ -1,8 +1,6 @@
-# Write your MySQL query statement below
-select company_id, employee_id, employee_name,
-case when mx < 1000 then salary
-    when mx <= 10000 then round(salary * (1-0.24))
-    else round (salary * 0.51)
-    end as salary
-from (select company_id, employee_id, employee_name, salary, max(salary) over(partition by company_id) mx
-from salaries) temp
+Select A.company_id, A.employee_id, A.employee_name,
+case when max(B.salary)>10000 then round(A.salary*0.51,0)
+when max(B.salary)>=1000 and max(B.salary)<=10000 then round(A.salary*0.76,0)
+else A.salary end as salary
+From Salaries A Left join Salaries B on A.company_id=B.company_id
+group by 1,2
