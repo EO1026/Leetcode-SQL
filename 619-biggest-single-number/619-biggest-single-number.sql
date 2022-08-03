@@ -1,6 +1,9 @@
 # Write your MySQL query statement below
-select if(count(num)=1, num, null) as num
-from mynumbers
-group by num
-order by num desc
-limit 1
+SELECT max(num) as num
+FROM (SELECT  num
+      FROM mynumbers
+      GROUP BY num
+      HAVING COUNT(num) = 1) AS t;
+
+
+
