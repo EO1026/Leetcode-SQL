@@ -1,6 +1,7 @@
 # Write your MySQL query statement below
-SELECT question_id AS survey_log
-FROM surveylog
-GROUP BY question_id
-ORDER BY SUM(action="answer")/SUM(action="show") DESC
-LIMIT 1; 
+
+select question_id as survey_log
+from SurveyLog
+group by question_id
+order by sum(case when action='answer' then 1 else 0 end)/ sum(case when action='show' then 1 else 0 end) desc, question_id asc limit 1
+
